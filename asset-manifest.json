@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robotcardsapp/static/css/main.3a0c0d94.chunk.css",
+    "main.js": "/robotcardsapp/static/js/main.5455e58a.chunk.js",
+    "main.js.map": "/robotcardsapp/static/js/main.5455e58a.chunk.js.map",
+    "runtime-main.js": "/robotcardsapp/static/js/runtime-main.946aece4.js",
+    "runtime-main.js.map": "/robotcardsapp/static/js/runtime-main.946aece4.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robotcardsapp/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c74feeab.chunk.js": "/robotcardsapp/static/js/2.c74feeab.chunk.js",
+    "static/js/2.c74feeab.chunk.js.map": "/robotcardsapp/static/js/2.c74feeab.chunk.js.map",
+    "index.html": "/robotcardsapp/index.html",
+    "precache-manifest.d2bb0814e2176c0eee2260166531565f.js": "/robotcardsapp/precache-manifest.d2bb0814e2176c0eee2260166531565f.js",
+    "service-worker.js": "/robotcardsapp/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robotcardsapp/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.3a0c0d94.chunk.css.map": "/robotcardsapp/static/css/main.3a0c0d94.chunk.css.map",
+    "static/js/2.c74feeab.chunk.js.LICENSE.txt": "/robotcardsapp/static/js/2.c74feeab.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotcardsapp/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.946aece4.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c74feeab.chunk.js",
+    "static/css/main.3a0c0d94.chunk.css",
+    "static/js/main.5455e58a.chunk.js"
+  ]
+}
